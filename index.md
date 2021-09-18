@@ -1,4 +1,4 @@
-# Life Restart
+# University Restart -- 我们都有光明的未来
 
 やり直すんだ。そして、次はうまくやる。[RESTART](view/index.html)
 
